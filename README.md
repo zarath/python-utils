@@ -16,3 +16,11 @@ be shared between multiple scripts.
 
 The library can be used as command line, pipe or as
 python library.
+
+AD9851 Firmata
+--------------
+
+Utility program to set the frequency of Analog Devices
+AD9851 DDS via command line.
+
+It utilizes the Firmata protocol vi pyFirmata.
