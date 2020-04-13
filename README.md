@@ -3,6 +3,13 @@ Python utils
 
 Repository for small scriplets with generic usability
 
+Check SSL
+---------
+
+check_ssl.py is a nagios check compatible SSL certificate
+checker with sni options.
+
+
 Limiter
 -------
 
